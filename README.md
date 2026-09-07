@@ -1,4 +1,4 @@
-Cisco Network Routing & Subnetting Lab
+#Multi-LAN-Network-Design-Configuration
 
 A Cisco Packet Tracer networking lab demonstrating IPv4 addressing, subnetting, switching, and routing by connecting two separate LANs through a central router.
 
